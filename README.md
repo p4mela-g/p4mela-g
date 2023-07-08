@@ -5,8 +5,5 @@
 
 ### Hi there 👋.
 
-- 🔭 I’m currently working on gudeliauskaspam/Mask_RCNN-Multi-Class-Detection.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on Anything!
-- 📫 How to reach me: Here or Linkedin :)
+- 🔭 I’m currently working on dcc-paa-2023 & dcc-aprendizado-profundo-2023.
 - 😄 Pronouns: She/Her
